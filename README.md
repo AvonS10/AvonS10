@@ -22,4 +22,4 @@ Final-year Computer Science student at Mahidol University International College,
 ## Connect
 
 - TryHackMe: [tryhackme.com/p/AvonS10](https://tryhackme.com/p/AvonS10)
-- Email: ryo15670@gmail.com
+- Email: pasin.visuttipinate@gmail.com
